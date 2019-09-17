@@ -1,4 +1,0 @@
-/home/jose/Documents/Compiladores1_2019_3/Prueba4_Practice/build/CMakeFiles/rebuild_cache.dir
-/home/jose/Documents/Compiladores1_2019_3/Prueba4_Practice/build/CMakeFiles/edit_cache.dir
-/home/jose/Documents/Compiladores1_2019_3/Prueba4_Practice/build/CMakeFiles/test_parser.dir
-/home/jose/Documents/Compiladores1_2019_3/Prueba4_Practice/build/CMakeFiles/test.dir
